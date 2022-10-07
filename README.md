@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS,JavaScript**
 
-- 🌟 also learning ** C++ **
+- 🌟 also learning **C++**
 
 - 📫 How to reach me **contact.mohit06@gmail.com**
 
