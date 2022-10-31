@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohit Parmar</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="100"/>
+</div>
 <h3 align="center">A frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitparmar1&label=Profile%20views&color=0e75b6&style=flat" alt="kirtiraj22" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitparmar1&label=Profile%20views&color=0e75b6&style=flat" alt="mohitparmar1" /> </p>
 
 - 🔭 I’m currently pursuing Btech in computer science engineering from **Dr.Kiran and Pallavi Patel Global University ,Vadodara**
 
@@ -24,4 +27,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitparmar1&show_icons=true&locale=en" alt="mohitparmar1" /></p>
 
-<p><img align="center" src="https://camo.githubusercontent.com/aa034c59d07720a50e8fab618408ddff34450addaa71a863f96c0aed08f9d1d0/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6b756c72616a73696e683939303426" alt="mohitparmar1" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=mohitparmar1&amp;" style="max-width: 100%;">></p>
