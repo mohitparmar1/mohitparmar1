@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohit Parmar</h1>
 <div id="header" align="center">
-  <img src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1206&q=80" width="640" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="640" />
 </div>
 <h3 align="center">A frontend developer from India</h3>
 
