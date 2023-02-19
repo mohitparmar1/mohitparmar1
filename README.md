@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently pursuing Btech in computer science engineering from **Dr.Kiran and Pallavi Patel Global University ,Vadodara**
 
-- 🌱 I’m currently learning **Front-end development & DSA **
+- 🌱 I’m currently learning **Front-end development & DSA**
 
 - 📫 How to reach me **contact.mohit06@gmail.com**
 
