@@ -2,13 +2,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="640" />
 </div>
-<h3 align="center">A frontend developer from India</h3>
+<h3 align="center">A Full-stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitparmar1&label=Profile%20views&color=0e75b6&style=flat" alt="mohitparmar1" /> </p>
 
 - 🔭 I’m currently pursuing Btech in computer science engineering from **Dr.Kiran and Pallavi Patel Global University ,Vadodara**
 
-- 🌱 I’m currently learning **Front-end development**
+- 🌱 I’m currently learning **Docker**
 
 - 📫 How to reach me **contact.mohit06@gmail.com**
 
@@ -49,6 +49,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitparmar1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mohitparmar1" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mohitparmar1&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mohitparmar1&theme=tokyonight)](https://git.io/streak-stats)
 
 [![mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitparmar1&show_icons=true&theme=tokyonight)
