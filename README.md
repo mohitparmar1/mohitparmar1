@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitparmar1&label=Profile%20views&color=0e75b6&style=flat" alt="mohitparmar1" /> </p>
 
-- 🔭 I’m currently pursuing Btech in computer science engineering from **Dr.Kiran and Pallavi Patel Global University ,Vadodara**
+- 🔭 I’m pursuing a Btech in computer science engineering from **Dr.Kiran and Pallavi Patel Global University ,Vadodara**
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m Building Projects & Learning **Docker**
 
 - 📫 How to reach me **contact.mohit06@gmail.com**
 
